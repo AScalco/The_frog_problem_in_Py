@@ -1,9 +1,11 @@
 # The frog problem in Py
 A solution to the frog problem made in Python along with some basic analyses
 
+### Credits
+
 The following description of the frog problem was originally proposed by Dr. Christie Lee from the Robert Gordon University during the Aberdeen Python User Group MeetUp of February 2020. The Jupyter Notebook contains my solution to the problem. An analysis of the average number of hops depending on the maximum number of lily pads is also reported using Panda and Matplotlib packages.
 
-## The Frog Problem (by Dr. C. Lee)
+## The Frog Problem
   
 This problem requires you to write a simulation of a system involving randomness.
 
